@@ -1,5 +1,10 @@
-<img width="2520" height="690" alt="banner" src="https://github.com/user-attachments/assets/cf49e4b3-1c0c-4218-8945-a4390a1a55d8" />
-<h1 align="center">Kartik Hirijaganer</h1>
+<!-- <img width="2520" height="690" alt="banner" src="https://github.com/user-attachments/assets/cf49e4b3-1c0c-4218-8945-a4390a1a55d8" /> -->
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=140&section=header&text=Kartik%20Hirijaganer&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<!-- ANIMATED TYPING LINE --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+production+LLM+systems+that+ship;Healthcare+AI+%7C+FastAPI+%7C+LangGraph+%7C+AWS;Open+to+AI+Engineer+%26+SDE+roles" />
+</p>
+<!-- <h1 align="center">Kartik Hirijaganer</h1> -->
 <p align="center">
   <b>AI Engineer &amp; Technical Lead</b> — I build production LLM systems that ship, and lead the teams that build them.
 </p>
