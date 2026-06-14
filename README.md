@@ -73,7 +73,7 @@ I work at the intersection of **AI and healthcare** — building HIPAA-compliant
 
 | Project | What it does | Highlights |
 |---|---|---|
-| **[Briefed](https://github.com/Kartik-Hirijaganer/Briefed)** · [live demo](https://d2vki955e8ckrc.cloudfront.net/login) | LLM email-triage app — sorts unread mail into categories with short summaries from rules you set | React · FastAPI · OpenRouter (Gemini + Claude fallback) · Supabase · AWS/Terraform |
+| **[Briefed](https://github.com/Kartik-Hirijaganer/Briefed)** · [live demo](https://briefed-six.vercel.app/) | LLM email-triage app — sorts unread mail into categories with short summaries from rules you set | React · FastAPI · OpenRouter (Gemini + Claude fallback) · Supabase · AWS/Terraform |
 | **[X12-Parser-Encoder](https://github.com/Kartik-Hirijaganer/X12-Parser-Encoder)** | Turns a spreadsheet into X12 270 eligibility requests, validates them, decodes 271 responses | Healthcare EDI · Python — the OSS core behind a tool that lifted clean-claim rate **74% → 94%** |
 | **[InboxIQ](https://github.com/Kartik-Hirijaganer/InboxIQ-Chrome-Extension)** | Chrome assistant that reads email context, detects meetings, and one-click-creates calendar events | **~95%** meeting-detection accuracy · masks sensitive data before LLM calls |
 | **[Executive-Compensation-Analysis](https://github.com/Kartik-Hirijaganer/Executive-Compensation-Analysis)** | 🏆 **Datathon winner** — predicts exec pay from 2.8M+ federal records | Random Forest · **R² = 0.86** |
